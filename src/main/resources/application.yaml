@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: authentication
+      port: 27017
